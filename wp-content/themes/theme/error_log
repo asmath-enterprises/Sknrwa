@@ -1,0 +1,4 @@
+[08-Dec-2021 14:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/baboolso/sknrwa.baboolsoft.com/wp-content/themes/theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home2/baboolso/sknrwa.baboolsoft.com/wp-content/themes/theme/index.php on line 1
